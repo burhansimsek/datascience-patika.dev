@@ -2,4 +2,4 @@
  Data Science Course / patika.dev
 
 ----------------------------------
-### Kodluyoruz ilk repo işlemlerini bu depodan yürüttüm :)
+### Kodluyoruz tüm repo işlemlerini bu depodan yürüttüm :)
